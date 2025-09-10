@@ -19,6 +19,7 @@ The app lets you create, manage, and track tasks with due dates, priorities, and
 
 
 🛠️ Tech Stack
+
 Vite
  – Fast build tool
 
