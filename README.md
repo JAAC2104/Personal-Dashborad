@@ -15,7 +15,7 @@ The app lets you create, manage, and track tasks with due dates, priorities, and
 
 💾 Data persistence with LocalStorage
 
-🔗 Simple hash-based router for navigation (Tasks, Calendar, Stats)
+🔗 Simple hash-based router for navigation (Tasks, Stats)
 
 
 🛠️ Tech Stack
